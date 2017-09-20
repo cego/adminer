@@ -23,4 +23,4 @@ tests/selenium.html - Selenium test suite
 #### How to compile:
 $ git submodule init
 $ git submodule update
-$ composer compile
+$ composer compile mysql
